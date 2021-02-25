@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kristofer_yee/static/css/main.39887a40.chunk.css",
+    "main.css": "/kristofer_yee/static/css/main.44e1511c.chunk.css",
     "main.js": "/kristofer_yee/static/js/main.83893a48.chunk.js",
     "main.js.map": "/kristofer_yee/static/js/main.83893a48.chunk.js.map",
     "runtime-main.js": "/kristofer_yee/static/js/runtime-main.a793e8ef.js",
@@ -12,7 +12,7 @@
     "static/js/3.0a3f8d5b.chunk.js.map": "/kristofer_yee/static/js/3.0a3f8d5b.chunk.js.map",
     "index.html": "/kristofer_yee/index.html",
     "static/css/2.cc77c331.chunk.css.map": "/kristofer_yee/static/css/2.cc77c331.chunk.css.map",
-    "static/css/main.39887a40.chunk.css.map": "/kristofer_yee/static/css/main.39887a40.chunk.css.map",
+    "static/css/main.44e1511c.chunk.css.map": "/kristofer_yee/static/css/main.44e1511c.chunk.css.map",
     "static/js/2.509ea661.chunk.js.LICENSE.txt": "/kristofer_yee/static/js/2.509ea661.chunk.js.LICENSE.txt",
     "static/media/index.css": "/kristofer_yee/static/media/Aileron-Regular.acd900a1.otf",
     "static/media/Contact.scss": "/kristofer_yee/static/media/arrow-up.e0925294.svg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.a793e8ef.js",
     "static/css/2.cc77c331.chunk.css",
     "static/js/2.509ea661.chunk.js",
-    "static/css/main.39887a40.chunk.css",
+    "static/css/main.44e1511c.chunk.css",
     "static/js/main.83893a48.chunk.js"
   ]
 }
