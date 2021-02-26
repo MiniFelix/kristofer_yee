@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/kristofer_yee/static/css/main.44e1511c.chunk.css",
-    "main.js": "/kristofer_yee/static/js/main.296828c3.chunk.js",
-    "main.js.map": "/kristofer_yee/static/js/main.296828c3.chunk.js.map",
-    "runtime-main.js": "/kristofer_yee/static/js/runtime-main.a793e8ef.js",
-    "runtime-main.js.map": "/kristofer_yee/static/js/runtime-main.a793e8ef.js.map",
+    "main.js": "/kristofer_yee/static/js/main.25f6ad69.chunk.js",
+    "main.js.map": "/kristofer_yee/static/js/main.25f6ad69.chunk.js.map",
+    "runtime-main.js": "/kristofer_yee/static/js/runtime-main.2aba7911.js",
+    "runtime-main.js.map": "/kristofer_yee/static/js/runtime-main.2aba7911.js.map",
     "static/css/2.cc77c331.chunk.css": "/kristofer_yee/static/css/2.cc77c331.chunk.css",
-    "static/js/2.509ea661.chunk.js": "/kristofer_yee/static/js/2.509ea661.chunk.js",
-    "static/js/2.509ea661.chunk.js.map": "/kristofer_yee/static/js/2.509ea661.chunk.js.map",
-    "static/js/3.0a3f8d5b.chunk.js": "/kristofer_yee/static/js/3.0a3f8d5b.chunk.js",
-    "static/js/3.0a3f8d5b.chunk.js.map": "/kristofer_yee/static/js/3.0a3f8d5b.chunk.js.map",
+    "static/js/2.1d2dc94c.chunk.js": "/kristofer_yee/static/js/2.1d2dc94c.chunk.js",
+    "static/js/2.1d2dc94c.chunk.js.map": "/kristofer_yee/static/js/2.1d2dc94c.chunk.js.map",
+    "static/js/3.699eb165.chunk.js": "/kristofer_yee/static/js/3.699eb165.chunk.js",
+    "static/js/3.699eb165.chunk.js.map": "/kristofer_yee/static/js/3.699eb165.chunk.js.map",
     "index.html": "/kristofer_yee/index.html",
     "static/css/2.cc77c331.chunk.css.map": "/kristofer_yee/static/css/2.cc77c331.chunk.css.map",
     "static/css/main.44e1511c.chunk.css.map": "/kristofer_yee/static/css/main.44e1511c.chunk.css.map",
-    "static/js/2.509ea661.chunk.js.LICENSE.txt": "/kristofer_yee/static/js/2.509ea661.chunk.js.LICENSE.txt",
+    "static/js/2.1d2dc94c.chunk.js.LICENSE.txt": "/kristofer_yee/static/js/2.1d2dc94c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/kristofer_yee/static/media/Aileron-Regular.acd900a1.otf",
     "static/media/Contact.scss": "/kristofer_yee/static/media/arrow-up.e0925294.svg",
     "static/media/instagram-logo.9b2ac9f8.svg": "/kristofer_yee/static/media/instagram-logo.9b2ac9f8.svg",
@@ -21,7 +21,6 @@
     "static/media/logo.8a4375f2.gif": "/kristofer_yee/static/media/logo.8a4375f2.gif",
     "static/media/rsl-logo.7fbfeb4f.svg": "/kristofer_yee/static/media/rsl-logo.7fbfeb4f.svg",
     "static/media/thumbnail-preview.a2fca89c.svg": "/kristofer_yee/static/media/thumbnail-preview.a2fca89c.svg",
-    "static/media/triangle-01.397669ea.svg": "/kristofer_yee/static/media/triangle-01.397669ea.svg",
     "static/media/triangle_02.3eec8e11.svg": "/kristofer_yee/static/media/triangle_02.3eec8e11.svg",
     "static/media/twitch-logo.4ff81bd0.svg": "/kristofer_yee/static/media/twitch-logo.4ff81bd0.svg",
     "static/media/twitter-logo.0a94f5e1.svg": "/kristofer_yee/static/media/twitter-logo.0a94f5e1.svg",
@@ -30,10 +29,10 @@
     "static/media/youtube_secondary-logo.090c463a.svg": "/kristofer_yee/static/media/youtube_secondary-logo.090c463a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a793e8ef.js",
+    "static/js/runtime-main.2aba7911.js",
     "static/css/2.cc77c331.chunk.css",
-    "static/js/2.509ea661.chunk.js",
+    "static/js/2.1d2dc94c.chunk.js",
     "static/css/main.44e1511c.chunk.css",
-    "static/js/main.296828c3.chunk.js"
+    "static/js/main.25f6ad69.chunk.js"
   ]
 }
